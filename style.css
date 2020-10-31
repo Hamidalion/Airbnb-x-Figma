@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family:  'Poppins', sans-serif;
+}
+
+body{
+  background-color: rgb(216, 238, 238);
+}
+
+.header{
+  display: flex;
+  padding: 10px 0;
+  background: rgb(92, 146, 92);
+  justify-content: space-between;
+  align-items: center;
+}
+
+.auth{
+  width: 250px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.auth__name{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: center;
+  text-align: center;
+  color: blue;
+}
+
+.header__indent-bottom{
+  margin-bottom: 32px;
+  
+}
+
+.logo{
+
+}
+
+.Ingridients{
+  width: px;
+  padding: 20px 20px;
+  background: rgb(218, 236, 190);
+  border-radius: 5px;
+}
+
+.Ingridient__text{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: rgb(98, 206, 206);
+}
+
+.ingridient__wrapper{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+
+}
+
+
